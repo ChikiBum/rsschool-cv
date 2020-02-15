@@ -1,1 +1,1 @@
-https://ChikiBum/test_Markdown/cv
+https://ChikiBum/rsschool-cv/cv
