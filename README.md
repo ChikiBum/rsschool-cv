@@ -1,1 +1,1 @@
-https://ChikiBum/rsschool-cv/cv
+https://chikibum.github.io/rsschool-cv/cv
